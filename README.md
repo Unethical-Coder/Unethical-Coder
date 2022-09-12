@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unethical-Coder
+- 👋 Hi, I’m Anurag Kumar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Data Science
