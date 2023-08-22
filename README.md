@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag Kumar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me anurag.tradersfbd@gmail.com
