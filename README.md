@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anurag+Kumar+%F0%9F%91%8B;Backend+Software+Engineer+%7C+Java+%7C+Spring+Boot;Building+Scalable+Distributed+Systems;Exploring+AI+Engineering+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=10000&lines=Hi%2C+I'm+Anurag+Kumar+%F0%9F%91%8B;Backend+Software+Engineer+%7C+Java+%7C+Spring+Boot;Building+Scalable+Distributed+Systems;Exploring+AI+Engineering+%26+Agentic+AI" alt="Typing SVG" />
 </h1>
 
 ## 🚀 About Me
