@@ -56,8 +56,6 @@ Backend Software Engineer passionate about building scalable, reliable, and high
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source
