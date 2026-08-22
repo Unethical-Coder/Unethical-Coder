@@ -4,7 +4,7 @@
 
 Backend Software Engineer passionate about building scalable, reliable, and high-performance systems.
 
-- 💼 Software Engineer with ~2 years of enterprise product development experience
+- 💼 Software Engineer with 2 years of enterprise product development experience
 - ☕ Backend Developer specializing in Java & Spring Boot
 - 🏗️ Interested in Distributed Systems, System Design, DevOps, and AI Engineering
 - 🤖 Currently exploring Agentic AI, LLMs, RAG, and AI-assisted software development
