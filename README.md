@@ -10,7 +10,7 @@ Backend Software Engineer passionate about building scalable, reliable, and high
 - ☕ Backend Developer specializing in Java & Spring Boot
 - 🏗️ Interested in Distributed Systems, System Design, DevOps, and AI Engineering
 - 🤖 Currently exploring Agentic AI, LLMs, RAG, and AI-assisted software development
-- 🧩 Competitive Programmer with 950+ LeetCode problems solved
+- 🧩 Competitive Programmer with 1000+ LeetCode problems solved
 - 🌱 Always learning and building
 
 ---
