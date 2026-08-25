@@ -33,7 +33,7 @@ Backend Software Engineer passionate about building scalable, reliable, and high
 - MySQL
 
 ### DevOps & Cloud
-- Docker compose
+- Docker
 - Git
 - AWS
 - Linux
