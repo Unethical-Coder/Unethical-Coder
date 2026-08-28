@@ -21,6 +21,7 @@ Backend Software Engineer passionate about building scalable, reliable, and high
 - Java
 - Python
 - SQL
+- Javascript
 
 ### Backend
 - Spring Boot
